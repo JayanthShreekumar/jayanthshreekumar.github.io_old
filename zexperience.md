@@ -7,7 +7,7 @@ permalink: /experience/
 {% for experience in site.experience %}
   <div class="experience">
     <h3>{{experience.title}}</h3>
-    {% if experience.from and experience.to %}
+    {% if experience.from and experience.to %}<br>
       <i>{{ experience.from }} - {{ experience.to }}</i>
     {% endif %}
     {% if experience.role %}
