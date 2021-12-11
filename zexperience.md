@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-{% for education in site.education %}
+{% for experience in site.experience %}
   <div class="experience">
     <h3>{{experience.title}}</h3>
     {% if experience.from and experience.to %}
