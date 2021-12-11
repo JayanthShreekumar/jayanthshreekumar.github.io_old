@@ -11,4 +11,4 @@ I graduated with a Bachelor of Technology degree in Electronics and Communicatio
 <br />
 I am currently seeking internship roles for summer 2022, and looking to work on cutting-edge research topics in signal processing, deep learning, computer vision, and related topics. Also open to roles in software engineering and web development.
 
-<a target="_blank" rel="noopener noreferrer" href="{{ site.baseurl }}{{ site.url }}/assets/pdf/resume.pdf"><button class="button">Download Resume</button></a>
+<a target="_blank" rel="noopener noreferrer" href="{{ site.baseurl }}{{ site.url }}/assets/pdf/Shreekumar_Jayanth_CV.pdf"><button class="button">Download Resume</button></a>
