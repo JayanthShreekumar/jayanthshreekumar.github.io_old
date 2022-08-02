@@ -5,7 +5,7 @@ to:    Present
 ---
 
 Master of Science in Electrical and Computer Engineering.<br>
-CGPA - 4.0 / 4.0 - <a target="_blank" rel="noopener noreferrer" href="{{site.url}}{{site.baseurl}}/assets/pdf/Shreekumar_Jayanth_Transcript_UCLA.pdf">Transcript</a>
+CGPA - 3.95 / 4.0 - <a target="_blank" rel="noopener noreferrer" href="{{site.url}}{{site.baseurl}}/assets/pdf/Shreekumar_Jayanth_Transcript_UCLA.pdf">Transcript</a>
 
 <h1><b>Course Work</b></h1>
-Computer Vision • Matrix Analysis for Scientists and Engineers
+Computer Vision • Matrix Analysis for Scientists and Engineers • Neural Networks and Deep Learning • Large-Scale Data Mining • Neural Signal Processing
