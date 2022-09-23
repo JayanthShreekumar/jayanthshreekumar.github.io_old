@@ -9,6 +9,6 @@ Hello! I am Jayanth Shreekumar, a graduate student pursuing my Master of Science
 <br />
 I graduated with a Bachelor of Technology degree in Electronics and Communication from <a target="_blank" rel="noopener noreferrer" href="https://ec.pes.edu//">PES University</a>.<br />
 <br />
-I am currently seeking internship roles for summer 2022, and looking to work on cutting-edge research topics in signal processing, deep learning, computer vision, and related topics. Also open to roles in software engineering and web development.
+I am currently seeking full-time roles starting April-May 2023, and looking to work on cutting-edge research topics in signal processing, deep learning, computer vision, and related topics. Also open to roles in software engineering and web development.
 
 <a target="_blank" rel="noopener noreferrer" href="{{ site.baseurl }}{{ site.url }}/assets/pdf/Shreekumar_Jayanth_CV.pdf"><button class="button">Download Resume</button></a>
