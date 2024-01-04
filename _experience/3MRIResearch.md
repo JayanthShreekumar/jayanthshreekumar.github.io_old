@@ -1,6 +1,6 @@
 ---
-title: Advanced Micro Devices (AMD)
-role: Performance Engineer Intern
+title: UCLA
+role: Graduate Student Researcher
 from:  October 2022
 to:    November 2022
 ---
